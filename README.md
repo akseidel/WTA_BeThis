@@ -3,7 +3,7 @@ Revit Add-in in c# : This add-in combines a number of Revit workset related task
 
 The secondary workset related items are:
 
-  * **Workset Picker**     ![BeThis](WTA_BeThis/WsP.png)
+* **Workset Picker**     ![BeThis](WTA_BeThis/WsP.png)
     - A tool that allows one to select an item to:
       - See what workset it is.
       - Change the active workset to what the picked item workset is.
