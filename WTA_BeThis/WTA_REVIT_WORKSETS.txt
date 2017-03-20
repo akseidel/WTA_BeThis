@@ -1,0 +1,13 @@
+// This file is used by the Revit addin WorksetMake-O-Matic.
+//
+// It is an external location for WTA workset names.
+//
+// Syntax: WS:THEWORKSET NAME
+
+WS:ELEC AUXILIARY
+WS:ELEC POWER
+WS:ELEC LIGHTING
+WS:MECH HVAC
+WS:PLUMBING
+WS:FIRE PROTECTION
+WS:TCOM

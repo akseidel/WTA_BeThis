@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application WTA_BeThis</Name>
+    <Assembly>AAA_WTA_BeThis.dll</Assembly>
+    <FullClassName>AAA_WTA_BeThis.AppWTABeThis</FullClassName>
+    <ClientId>173671CA-EA12-4CF8-94D4-58618CF389E6</ClientId>
+    <VendorId>WTA_</VendorId>
+    <VendorDescription>WTA, http://wmtao.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
