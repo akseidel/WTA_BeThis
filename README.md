@@ -1,5 +1,5 @@
 # WTA_BeThis     ![BeThis](WTA_BeThis/BeThis.PNG)
-Revit Add-in in c# : This add-in combines a number of Revit workset related tasks of which the primary is to automatically switch a document's current workset to whatever the user has set to be the prefered workset. This happens using the DocumentOpened event.  The user setting is saved as an application setting. That is the **BeThis** function.
+Revit Add-in in c# &mdash; This add-in combines a number of Revit workset related tasks of which the primary is to automatically switch a document's current workset to whatever the user has set to be the prefered workset. This happens using the DocumentOpened event.  The user setting is saved as an application setting. That is the **BeThis** function.
 
 The secondary workset related items are:
 
