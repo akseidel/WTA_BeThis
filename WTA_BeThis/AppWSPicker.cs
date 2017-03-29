@@ -3,8 +3,6 @@
 /// is not practical to write to another existing tab.
 
 
-
-
 //#region Namespaces
 //using System;
 //using System.IO;

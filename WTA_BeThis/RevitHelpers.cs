@@ -1,19 +1,9 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Windows.Forms;
-using Autodesk.Revit.ApplicationServices;
-using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using Autodesk.Revit.UI.Selection;
-using System.Linq;
-using System.Text;
 
-
-
-namespace AAA_WTA_BeThis
-{
+namespace AAA_WTA_BeThis {
     class RevitHelpers
     {
         public void ShowBasicLinkInfo(Element elem, Document doc)

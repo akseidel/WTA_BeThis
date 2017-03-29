@@ -3,21 +3,10 @@ using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using Autodesk.Revit.UI;
 using Autodesk.Revit.DB;
-using Autodesk.Revit.UI.Selection;
-using Autodesk.Revit.DB.Mechanical;
-using Autodesk.Revit.DB.Lighting;
-using Autodesk.Revit.DB.Electrical;
-using Autodesk.Revit.DB.Architecture;
-using Autodesk.Revit.DB.Plumbing;
-using Autodesk.Revit.DB.Structure;
 
 namespace AAA_WTA_BeThis {
     public partial class WorksetMakeOMatic : System.Windows.Forms.Form {
@@ -168,8 +157,6 @@ namespace AAA_WTA_BeThis {
             GetExistingWSNames();
             MarkNamesInGrid();
         }
-
-
 
         private void MarkNamesInGrid() {
             foreach (DataGridViewRow dgvR in dataGridViewWSNames.Rows) {
